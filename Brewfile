@@ -66,6 +66,7 @@ cask 'tunnelbear'
 cask 'visual-studio-code'
 cask 'whatsapp'
 cask 'zoom'
+casl 'microsoft-edge'
 
 # Quicklook
 cask 'quicklook-json'
