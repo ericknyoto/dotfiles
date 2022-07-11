@@ -20,3 +20,6 @@ git clone git@github.com:julie-grace/manobo-client-2010.git $SITES/manobo-client
 git clone git@github.com:julie-grace/manobo-development-environment.git $SITES/manobo-development-environment
 git clone git@github.com:julie-grace/manobo-service-stocktaking.git $SITES/manobo-service-stocktaking
 git clone git@github.com:julie-grace/manobo-service-stocktaking.git $SITES/manobo-service-stocktaking
+
+# Personal
+git clone git@github.com:ericknyoto/mydotfiles.git $SITES/mydotfiles
